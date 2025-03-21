@@ -1,4 +1,4 @@
-#### **Versi Indonesia:** [DISINI](https://github.com/bimaalbertus/libravel-2/blob/school/BACAAKU.md)
+#### **Versi Indonesia:** [DISINI](https://github.com/libravelabs/libravel/blob/main/BACAAKU.md)
 
 📚 Libravel Documentation 📚
 ============================

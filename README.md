@@ -67,10 +67,11 @@ With the correct configuration, the issue should be resolved. 🎉
 
 Use the following command to clone the repository:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
+    
 or
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup with Herd
 

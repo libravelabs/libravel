@@ -29,10 +29,10 @@ Libravel can be deployed on various server environments. Here are some compatibl
 
 Start by cloning the repository to your local machine. Run the following command in your terminal:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
 or
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup with Laragon
 

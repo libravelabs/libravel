@@ -68,11 +68,11 @@ Dengan konfigurasi yang benar, masalah tersebut seharusnya teratasi. 🎉
 
 Gunakan perintah berikut untuk meng-clone repository:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
-
+    git clone https://github.com/libravelabs/libravel.git
+    
 atau
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup dengan Herd
 

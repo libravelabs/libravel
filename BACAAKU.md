@@ -1,4 +1,4 @@
-#### **English version:** [HERE](https://github.com/bimaalbertus/libravel-2/blob/school/README.md)
+#### **English version:** [HERE](https://github.com/libravelabs/libravel/blob/main/README.md)
 
 📚 Dokumentasi Libravel 📚
 ==========================

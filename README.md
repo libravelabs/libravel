@@ -1,38 +1,35 @@
-#### **Versi Indonesia:** [DISINI](https://github.com/bimaalbertus/libravel-2/blob/school/BACAAKU.md)
+#### **Versi Indonesia:** [DISINI](https://github.com/libravelabs/libravel/blob/main/BACAAKU.md)
 
-📚 Libravel Documentation 📚
-============================
+# 📚 Libravel Documentation 📚
 
-🧐 What is Libravel?
---------------------
+## 🧐 What is Libravel?
 
 Libravel is a Laravel-based library management application designed to simplify the management of books, users, and downloading. With Libravel, you can efficiently manage your library, using a range of built-in features to make the process seamless. 🚀
 
 This application comes with a user-friendly interface and a set of tools to speed up library data management, from cataloging new books to monitoring download statuses. Libravel is ideal for small to medium-sized libraries that require an easy-to-use web-based system for managing their operations.
 
-🔧 Server Compatibility
------------------------
+## 🔧 Server Compatibility
 
 Libravel can be deployed on various server environments. Here are some compatible server options:
 
-*   🖥️ **Laragon:** A local development platform that is highly recommended for quick setup and easy development.
-*   🐑 **Herd:** A lightweight and fast alternative for local development, perfect for small to medium-sized projects.
-*   🌐 **Nginx:** Ideal for large-scale production and development with high optimization.
-*   🔒 **Apache:** A widely used web server for production environments, stable and easy to configure.
+-   🖥️ **Laragon:** A local development platform that is highly recommended for quick setup and easy development.
+-   🐑 **Herd:** A lightweight and fast alternative for local development, perfect for small to medium-sized projects.
+-   🌐 **Nginx:** Ideal for large-scale production and development with high optimization.
+-   🔒 **Apache:** A widely used web server for production environments, stable and easy to configure.
 
 **Note:** Choose the server that best fits your development or production needs. 🛠️
 
-💻 Setting Up Libravel with Laragon
------------------------------------
+## 💻 Setting Up Libravel with Laragon
 
 ### 1\. 🧑‍💻 Clone the Repository
 
 Start by cloning the repository to your local machine. Run the following command in your terminal:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
+
 or
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup with Laragon
 
@@ -60,17 +57,17 @@ Follow these steps to fix it:
 
 With the correct configuration, the issue should be resolved. 🎉
 
-🐑 Setting Up Libravel with Herd
---------------------------------
+## 🐑 Setting Up Libravel with Herd
 
 ### 1\. 🧑‍💻 Clone the Repository
 
 Use the following command to clone the repository:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
+
 or
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup with Herd
 
@@ -94,7 +91,6 @@ If you encounter a similar issue with Herd, follow these steps to resolve it:
 2.  🔑 **Edit Configuration:** Remove the semicolon `;` from the `upload_tmp_dir` line and specify a valid temporary directory (e.g., `upload_tmp_dir = "C:\Users\\AppData\Local\Temp"`).
 3.  🔄 **Restart Herd:** After making changes, restart Herd to apply the updated configuration.
 
-🎉 Congratulations, You’re Ready to Use Libravel!
--------------------------------------------------
+## 🎉 Congratulations, You’re Ready to Use Libravel!
 
 By following the steps above, you should be able to start developing with Libravel. We hope this documentation helps speed up your development process. If you have further questions, feel free to reach out! 🚀

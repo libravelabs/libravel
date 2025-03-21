@@ -1,39 +1,35 @@
-#### **English version:** [HERE](https://github.com/bimaalbertus/libravel-2/blob/school/README.md)
+#### **English version:** [HERE](https://github.com/libravelabs/libravel/blob/main/README.md)
 
-📚 Dokumentasi Libravel 📚
-==========================
+# 📚 Dokumentasi Libravel 📚
 
-🧐 Apa itu Libravel?
---------------------
+## 🧐 Apa itu Libravel?
 
 Libravel adalah aplikasi manajemen perpustakaan berbasis Laravel yang dirancang untuk mempermudah pengelolaan buku, pengguna, dan pengunduhan. Dengan Libravel, Anda dapat mengelola perpustakaan Anda secara efisien, menggunakan berbagai fitur bawaan untuk membuat proses ini berjalan lancar. 🚀
 
 Aplikasi ini dilengkapi dengan antarmuka yang ramah pengguna dan serangkaian alat untuk mempercepat pengelolaan data perpustakaan, mulai dari katalog buku baru hingga memantau status pengunduhan. Libravel sangat cocok untuk perpustakaan kecil hingga menengah yang membutuhkan sistem berbasis web yang mudah digunakan untuk mengelola operasional mereka.
 
-🔧 Kompatibilitas Server
-------------------------
+## 🔧 Kompatibilitas Server
 
 Libravel dapat dipasang di berbagai lingkungan server. Berikut adalah beberapa opsi server yang kompatibel:
 
-*   🖥️ **Laragon:** Platform pengembangan lokal yang sangat disarankan untuk pengaturan cepat dan pengembangan yang mudah.
-*   🐑 **Herd:** Alternatif ringan dan cepat untuk pengembangan lokal, sempurna untuk proyek kecil hingga menengah.
-*   🌐 **Nginx:** Ideal untuk produksi dan pengembangan berskala besar dengan optimasi tinggi.
-*   🔒 **Apache:** Server web yang banyak digunakan untuk lingkungan produksi, stabil, dan mudah dikonfigurasi.
+-   🖥️ **Laragon:** Platform pengembangan lokal yang sangat disarankan untuk pengaturan cepat dan pengembangan yang mudah.
+-   🐑 **Herd:** Alternatif ringan dan cepat untuk pengembangan lokal, sempurna untuk proyek kecil hingga menengah.
+-   🌐 **Nginx:** Ideal untuk produksi dan pengembangan berskala besar dengan optimasi tinggi.
+-   🔒 **Apache:** Server web yang banyak digunakan untuk lingkungan produksi, stabil, dan mudah dikonfigurasi.
 
 **Catatan:** Pilih server yang paling sesuai dengan kebutuhan pengembangan atau produksi Anda. 🛠️
 
-💻 Menyiapkan Libravel dengan Laragon
--------------------------------------
+## 💻 Menyiapkan Libravel dengan Laragon
 
 ### 1\. 🧑‍💻 Clone Repository
 
 Mulailah dengan meng-clone repository ke mesin lokal Anda. Jalankan perintah berikut di terminal Anda:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
 
 atau
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup dengan Laragon
 
@@ -61,18 +57,17 @@ Ikuti langkah-langkah berikut untuk memperbaikinya:
 
 Dengan konfigurasi yang benar, masalah tersebut seharusnya teratasi. 🎉
 
-🐑 Menyiapkan Libravel dengan Herd
-----------------------------------
+## 🐑 Menyiapkan Libravel dengan Herd
 
 ### 1\. 🧑‍💻 Clone Repository
 
 Gunakan perintah berikut untuk meng-clone repository:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
+    git clone https://github.com/libravelabs/libravel.git
 
 atau
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup dengan Herd
 
@@ -96,7 +91,6 @@ Jika Anda menemui masalah serupa dengan Herd, ikuti langkah-langkah berikut untu
 2.  🔑 **Edit Konfigurasi:** Hapus tanda titik koma `;` dari baris `upload_tmp_dir` dan tentukan direktori sementara yang valid (misalnya `upload_tmp_dir = "C:\Users\\AppData\Local\Temp"`).
 3.  🔄 **Restart Herd:** Setelah melakukan perubahan, restart Herd untuk menerapkan konfigurasi yang baru.
 
-🎉 Selamat, Anda Siap Menggunakan Libravel!
--------------------------------------------
+## 🎉 Selamat, Anda Siap Menggunakan Libravel!
 
 Dengan mengikuti langkah-langkah di atas, Anda harus dapat memulai pengembangan dengan Libravel. Kami harap dokumentasi ini membantu mempercepat proses pengembangan Anda. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami! 🚀

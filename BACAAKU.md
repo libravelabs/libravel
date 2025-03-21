@@ -29,11 +29,11 @@ Libravel dapat dipasang di berbagai lingkungan server. Berikut adalah beberapa o
 
 Mulailah dengan meng-clone repository ke mesin lokal Anda. Jalankan perintah berikut di terminal Anda:
 
-    git clone -b school https://github.com/bimaalbertus/libravel-2/
-
+    git clone https://github.com/libravelabs/libravel.git
+    
 atau
 
-    git clone -b school git@github.com:bimaalbertus/libravel-2.git
+    git clone git@github.com:libravelabs/libravel.git
 
 ### 2\. 🔧 Setup dengan Laragon
 

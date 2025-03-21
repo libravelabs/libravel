@@ -26,7 +26,11 @@ Libravel dapat dipasang di berbagai lingkungan server. Berikut adalah beberapa o
 Mulailah dengan meng-clone repository ke mesin lokal Anda. Jalankan perintah berikut di terminal Anda:
 
     git clone https://github.com/libravelabs/libravel.git
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> a4761154a323f0a934c282af1aabe98d51d07173
 atau
 
     git clone git@github.com:libravelabs/libravel.git
@@ -64,7 +68,11 @@ Dengan konfigurasi yang benar, masalah tersebut seharusnya teratasi. 🎉
 Gunakan perintah berikut untuk meng-clone repository:
 
     git clone https://github.com/libravelabs/libravel.git
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> a4761154a323f0a934c282af1aabe98d51d07173
 atau
 
     git clone git@github.com:libravelabs/libravel.git
